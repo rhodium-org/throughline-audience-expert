@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Use the field's standard acronyms, processes and roles without introduction"
+text: "Assume the reader recognises the field's established acronyms, named processes and roles, and use them directly rather than introducing each one."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Assumed prior knowledge"
+  principle: UR-0001

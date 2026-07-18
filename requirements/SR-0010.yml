@@ -1,0 +1,11 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: "Cite standards, literature or established results as shared reference points"
+text: "Refer to the field's standards, literature and established results as common reference points the reader can look up, rather than re-deriving them."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Examples and reference points"
+  principle: UR-0005

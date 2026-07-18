@@ -1,0 +1,11 @@
+uid: SR-0008
+type: system_requirement
+status: approved
+title: "Assume the wider context and motivation are known; do not restate them"
+text: "Take the wider context and motivation as already understood, and do not spend words re-establishing why the subject matters."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Context and orientation"
+  principle: UR-0004

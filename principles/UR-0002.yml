@@ -1,0 +1,10 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: "Use precise field terminology without defining it"
+text: "Use the field's exact technical vocabulary and notation, unglossed, so meaning stays precise."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — Expert reader — Terminology and jargon"

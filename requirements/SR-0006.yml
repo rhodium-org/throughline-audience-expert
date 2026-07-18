@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Explain how it works, not only what it means"
+text: "Give the underlying workings and reasoning, not just the outcome, so the reader can analyse and build on the subject."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Depth and detail"
+  principle: UR-0003

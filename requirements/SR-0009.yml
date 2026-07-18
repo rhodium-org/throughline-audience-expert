@@ -1,0 +1,11 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: "Illustrate with domain-specific cases and examples from the field"
+text: "Make points concrete with cases and examples drawn from the field itself, which an expert will recognise, rather than everyday analogies."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Examples and reference points"
+  principle: UR-0005

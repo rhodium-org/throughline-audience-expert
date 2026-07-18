@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "Prefer the precise technical term over a plain-word paraphrase"
+text: "Where a technical term carries an exact meaning, use it rather than a looser everyday paraphrase, so precision is not lost."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Terminology and jargon"
+  principle: UR-0002

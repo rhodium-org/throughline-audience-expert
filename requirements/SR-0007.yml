@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Open at the substantive question, not with background the expert holds"
+text: "Begin at the substantive matter the reader came for, rather than opening with introductory background a specialist already has."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Context and orientation"
+  principle: UR-0004

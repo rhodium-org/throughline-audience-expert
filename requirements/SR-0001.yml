@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Build on shared expert knowledge; do not re-explain the fundamentals"
+text: "Take the field's fundamentals as read and build on them; do not spend words re-teaching what a specialist already knows."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Assumed prior knowledge"
+  principle: UR-0001

@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Skip basic orientation; open at the substantive point"
+text: "Start at the substantive question and treat the wider context as already held."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — Expert reader — Context and orientation"

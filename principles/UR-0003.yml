@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Go to full technical depth"
+text: "Give the specialist detail, mechanisms and edge cases an expert needs to reason about the subject."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — Expert reader — Depth and detail"

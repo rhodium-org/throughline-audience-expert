@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Include the specialist detail, mechanisms and edge cases"
+text: "Include the specialist detail, underlying mechanisms and edge cases an expert needs, rather than simplifying them away."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Audience — Expert reader — Depth and detail"
+  principle: UR-0003
