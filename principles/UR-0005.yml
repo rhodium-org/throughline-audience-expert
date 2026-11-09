@@ -1,10 +1,11 @@
 uid: UR-0005
 type: user_requirement
-status: approved
-title: "Use domain examples, standards and prior work as reference points"
-text: "Anchor points in the field's own cases, standards and established results."
+status: proposed
+title: Use domain examples, standards and prior work as reference points
+text: Anchor points in the field's own cases, standards and established results.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Audience — Expert reader — Examples and reference points"
+  source_ref: TBS Audience — Expert reader — Examples and reference points
