@@ -26,7 +26,7 @@ It carries
 ## Purpose
 
 <!-- tl:item INT-0001 -->
-**INT-0001 — Text is pitched for an expert reader** — `intent`, status `approved`
+**INT-0001 — Text is pitched for an expert reader** — `intent`, status `proposed`
 
 > An expert reader has full command of the field. They expect the writing to build on shared fundamentals, use precise terminology without definition, go to full technical depth, and get straight to the substantive point rather than orienting them to basics they already hold. This axis governs how the writing is calibrated to the reader's expertise — assumed knowledge, terminology, depth and orientation — not universal readability, spelling, register or purpose, each of which is a separate source. Audience levels are mutually exclusive: a consumer composes exactly one of the expert, practitioner or general sibling sources.
 
@@ -36,7 +36,7 @@ It carries
 ## 1. Assume full command of the field's fundamentals
 
 <!-- tl:item UR-0001 -->
-**UR-0001 — Assume full command of the field's fundamentals** — `user_requirement`, status `approved`
+**UR-0001 — Assume full command of the field's fundamentals** — `user_requirement`, status `proposed`
 
 > Take the field's fundamentals as shared ground and build on them rather than re-establishing them.
 
@@ -48,14 +48,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0001' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0001 | system_requirement | approved | Build on shared expert knowledge; do not re-explain the fundamentals |
-| SR-0002 | system_requirement | approved | Use the field's standard acronyms, processes and roles without introduction |
+| SR-0001 | system_requirement | proposed | Build on shared expert knowledge; do not re-explain the fundamentals |
+| SR-0002 | system_requirement | proposed | Use the field's standard acronyms, processes and roles without introduction |
 <!-- tl:end -->
 
 ## 2. Use precise field terminology without defining it
 
 <!-- tl:item UR-0002 -->
-**UR-0002 — Use precise field terminology without defining it** — `user_requirement`, status `approved`
+**UR-0002 — Use precise field terminology without defining it** — `user_requirement`, status `proposed`
 
 > Use the field's exact technical vocabulary and notation, unglossed, so meaning stays precise.
 
@@ -67,14 +67,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0002' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0003 | system_requirement | approved | Use exact technical terms and notation without glossing them |
-| SR-0004 | system_requirement | approved | Prefer the precise technical term over a plain-word paraphrase |
+| SR-0003 | system_requirement | proposed | Use exact technical terms and notation without glossing them |
+| SR-0004 | system_requirement | proposed | Prefer the precise technical term over a plain-word paraphrase |
 <!-- tl:end -->
 
 ## 3. Go to full technical depth
 
 <!-- tl:item UR-0003 -->
-**UR-0003 — Go to full technical depth** — `user_requirement`, status `approved`
+**UR-0003 — Go to full technical depth** — `user_requirement`, status `proposed`
 
 > Give the specialist detail, mechanisms and edge cases an expert needs to reason about the subject.
 
@@ -86,14 +86,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0003' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0005 | system_requirement | approved | Include the specialist detail, mechanisms and edge cases |
-| SR-0006 | system_requirement | approved | Explain how it works, not only what it means |
+| SR-0005 | system_requirement | proposed | Include the specialist detail, mechanisms and edge cases |
+| SR-0006 | system_requirement | proposed | Explain how it works, not only what it means |
 <!-- tl:end -->
 
 ## 4. Skip basic orientation; open at the substantive point
 
 <!-- tl:item UR-0004 -->
-**UR-0004 — Skip basic orientation; open at the substantive point** — `user_requirement`, status `approved`
+**UR-0004 — Skip basic orientation; open at the substantive point** — `user_requirement`, status `proposed`
 
 > Start at the substantive question and treat the wider context as already held.
 
@@ -105,14 +105,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0004' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0007 | system_requirement | approved | Open at the substantive question, not with background the expert holds |
-| SR-0008 | system_requirement | approved | Assume the wider context and motivation are known; do not restate them |
+| SR-0007 | system_requirement | proposed | Open at the substantive question, not with background the expert holds |
+| SR-0008 | system_requirement | proposed | Assume the wider context and motivation are known; do not restate them |
 <!-- tl:end -->
 
 ## 5. Use domain examples, standards and prior work as reference points
 
 <!-- tl:item UR-0005 -->
-**UR-0005 — Use domain examples, standards and prior work as reference points** — `user_requirement`, status `approved`
+**UR-0005 — Use domain examples, standards and prior work as reference points** — `user_requirement`, status `proposed`
 
 > Anchor points in the field's own cases, standards and established results.
 
@@ -124,6 +124,6 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0005' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0009 | system_requirement | approved | Illustrate with domain-specific cases and examples from the field |
-| SR-0010 | system_requirement | approved | Cite standards, literature or established results as shared reference points |
+| SR-0009 | system_requirement | proposed | Illustrate with domain-specific cases and examples from the field |
+| SR-0010 | system_requirement | proposed | Cite standards, literature or established results as shared reference points |
 <!-- tl:end -->
